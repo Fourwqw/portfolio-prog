@@ -20,6 +20,7 @@
 ## Sem-5
 ### * [lr1](/sem5/sem5-lr1)
 ### * [lr2](/sem5/sem5-lr2)
+### * [lr3](/sem5/sem5-lr3)
 ### * [Theme 1](/sem5/work1)
 ### * [Theme 2](/sem5/work2)
 ### * [Theme 3](/sem5/work3)
