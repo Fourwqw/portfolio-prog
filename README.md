@@ -33,3 +33,11 @@
 ### * [Theme 2](/sem4/work2)
 ### * [Theme 3](/sem4/work3)
 ### * [Theme 4](/sem4/work4)
+## Sem-7
+### * [lr1](https://replit.com/@FourwFourw/prog7-lr1#main.py)
+### * [lr2](https://hub.docker.com/repository/docker/fourwqw/prog7-lr1)
+### * [lr3](https://replit.com/@FourwFourw/prog7-lr3#main.py)
+### * [lr4](/sem7/lr4)
+### * [lr5](https://replit.com/@FourwFourw/prog7-lr5-v20#main.py)
+### * [lr6](https://replit.com/@FourwFourw/prog7-lr6)
+### * [lr7](/sem7/lr7.pdf)
