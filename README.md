@@ -40,5 +40,5 @@
 ### * [lr4](/sem7/lr4)
 ### * [lr5](https://replit.com/@FourwFourw/prog7-lr5-v20#main.py)
 ### * [lr6](https://replit.com/@FourwFourw/prog7-lr6)
-####### * [lr6-checkenator12](https://replit.com/@FourwFourw/prog7-checkenator12?v=1)
+#### [lr6-checkenator12](https://replit.com/@FourwFourw/prog7-checkenator12?v=1)
 ### * [lr7](/sem7/lr7/lr7.pdf)
