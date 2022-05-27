@@ -1,5 +1,5 @@
 # portfolio-prog-py
-# Кузнецов Антон
+Кузнецов Антон
 
 
 ## Prog-py
